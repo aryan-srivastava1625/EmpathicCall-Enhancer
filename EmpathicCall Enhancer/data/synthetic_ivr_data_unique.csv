@@ -1,0 +1,1001 @@
+call_identifier,call_timestamp,call_text,call_duration_seconds,escalation_required
+1,2023-09-02 13:45:31,How do I apply a discount code?,270,0
+2,2023-02-06 09:02:50,I need to report a lost card.,367,0
+3,2023-04-21 11:22:44,I need to report a lost card.,194,0
+4,2023-07-21 16:52:48,Can you help me with a refund?,67,0
+5,2023-04-16 15:53:47,How do I set up auto-pay?,330,0
+6,2023-09-15 01:29:04,My internet is not working properly.,449,1
+7,2023-04-22 08:56:32,I'm having trouble with my online order.,332,0
+8,2023-04-01 07:46:30,My package hasn't arrived yet.,168,0
+9,2023-08-30 16:18:52,My package hasn't arrived yet.,449,0
+10,2023-06-06 01:55:16,I'm unable to login to my account.,291,0
+11,2023-11-21 17:43:41,My package hasn't arrived yet.,344,1
+12,2023-03-28 13:59:34,I need to report a lost card.,308,0
+13,2023-03-21 23:14:04,Can you help me with a refund?,227,0
+14,2023-11-11 09:56:59,How do I update my email address?,466,0
+15,2023-09-09 17:24:17,I need help with my account balance.,184,1
+16,2023-12-22 10:07:37,My device isn't charging properly.,470,1
+17,2023-08-19 12:48:20,I need technical support.,554,0
+18,2023-01-06 07:54:43,I need technical support.,450,0
+19,2023-03-16 19:04:04,I have a billing issue.,265,1
+20,2023-07-09 05:19:34,What's the status of my repair?,166,0
+21,2023-08-08 11:25:01,Can you explain my recent charges?,378,0
+22,2023-01-28 07:06:38,How do I change my shipping address?,83,0
+23,2023-07-25 19:03:45,I need assistance with a warranty claim.,154,1
+24,2023-09-05 13:07:50,I'm having trouble with my online order.,452,1
+25,2023-07-13 11:34:41,I need to report a lost card.,499,0
+26,2023-07-21 22:32:58,Can I speak to a manager?,164,0
+27,2023-07-05 17:06:27,My device isn't charging properly.,417,0
+28,2023-09-05 01:59:24,The service has been down for hours.,350,0
+29,2023-03-16 11:44:30,I'm having trouble with my online order.,425,0
+30,2023-05-08 03:00:07,The app keeps crashing.,152,0
+31,2023-11-25 02:42:42,The service has been down for hours.,351,0
+32,2023-02-03 15:43:39,How do I apply a discount code?,254,0
+33,2023-06-04 15:48:29,Can you explain my recent charges?,179,1
+34,2023-03-16 07:06:29,I need technical support.,465,0
+35,2023-08-17 23:20:01,Can you help me with a refund?,543,1
+36,2023-03-05 04:46:04,I need help with my insurance claim.,334,1
+37,2023-10-13 13:48:32,I need technical support.,535,1
+38,2023-12-20 15:26:11,I need technical support.,74,0
+39,2023-02-06 21:16:55,I need help with my insurance claim.,256,1
+40,2023-07-26 17:48:45,How do I set up auto-pay?,224,1
+41,2023-01-02 20:49:19,The service has been down for hours.,423,0
+42,2023-09-20 19:08:33,How do I reset my password?,295,1
+43,2023-01-19 13:44:28,I'm unable to login to my account.,452,1
+44,2023-12-03 15:29:19,The product I received is defective.,258,1
+45,2023-01-18 19:29:20,How do I apply a discount code?,115,0
+46,2023-05-02 18:48:33,How do I connect to Wi-Fi?,54,1
+47,2023-06-10 08:28:09,Can I speak to a manager?,42,1
+48,2023-01-31 11:07:49,What's the status of my repair?,502,0
+49,2023-04-06 07:11:31,The app keeps crashing.,279,1
+50,2023-06-10 08:46:29,I want to cancel my subscription.,244,1
+51,2023-05-10 18:00:41,How do I apply a discount code?,178,0
+52,2023-06-22 20:10:18,The product I received is defective.,293,1
+53,2023-08-06 19:15:58,How do I change my shipping address?,341,1
+54,2023-04-16 13:55:18,Can you help me with a refund?,173,1
+55,2023-02-16 19:12:38,The product I received is defective.,492,1
+56,2023-04-18 06:56:59,How do I change my shipping address?,137,0
+57,2023-09-02 05:56:37,My device isn't charging properly.,308,1
+58,2023-05-30 21:13:09,Can you explain my recent charges?,364,1
+59,2023-09-28 13:18:53,I need technical support.,473,1
+60,2023-12-10 01:25:05,The product I received is defective.,134,1
+61,2023-07-02 21:50:27,How do I track my order?,454,0
+62,2023-05-18 08:12:35,My internet is not working properly.,568,1
+63,2023-07-05 08:27:31,I need technical support.,240,0
+64,2023-03-29 00:29:37,I'm unable to login to my account.,227,0
+65,2023-05-10 00:18:47,My device isn't charging properly.,160,1
+66,2023-11-22 14:03:08,I need technical support.,505,0
+67,2023-05-05 14:47:36,The app keeps crashing.,215,0
+68,2023-03-16 05:25:47,The service has been down for hours.,273,1
+69,2023-12-15 02:14:25,I have a billing issue.,210,0
+70,2023-03-24 05:18:56,I need help with my account balance.,305,1
+71,2023-02-18 01:49:52,I need technical support.,548,0
+72,2023-06-09 21:07:07,My package hasn't arrived yet.,263,1
+73,2023-02-02 00:38:25,How do I set up auto-pay?,49,0
+74,2023-01-02 12:17:53,Can I reschedule my appointment?,362,0
+75,2023-04-19 09:02:05,I need to report a lost card.,286,1
+76,2023-03-30 00:10:31,How do I apply a discount code?,427,1
+77,2023-04-03 03:29:32,I have a billing issue.,382,1
+78,2023-07-05 21:45:11,The product I received is defective.,446,0
+79,2023-10-16 22:53:39,I'm unable to login to my account.,157,1
+80,2023-12-26 14:24:57,How do I change my shipping address?,387,0
+81,2023-04-26 20:58:15,The service has been down for hours.,130,0
+82,2023-01-15 15:31:03,How do I update my email address?,152,1
+83,2023-02-21 06:12:53,What's the status of my repair?,146,0
+84,2023-03-31 23:48:43,I'm unable to login to my account.,302,0
+85,2023-06-14 03:29:53,How do I reset my password?,347,0
+86,2023-10-15 20:50:12,How do I track my order?,585,0
+87,2023-10-01 00:27:34,I need to update my payment information.,243,0
+88,2023-09-18 22:09:23,I'm having trouble with my online order.,184,1
+89,2023-02-01 03:41:28,I'm having trouble with my online order.,199,1
+90,2023-12-06 18:27:13,Can I reschedule my appointment?,145,0
+91,2023-09-14 14:18:29,I have a billing issue.,443,1
+92,2023-04-05 06:10:59,My package hasn't arrived yet.,160,0
+93,2023-07-08 12:09:30,I want to upgrade my plan.,519,0
+94,2023-11-12 20:44:22,The service has been down for hours.,190,1
+95,2023-04-30 01:38:39,How do I track my order?,516,1
+96,2023-06-15 15:00:04,I need help with my insurance claim.,391,1
+97,2023-07-02 21:49:20,The product I received is defective.,163,0
+98,2023-01-04 02:15:34,I need technical support.,188,0
+99,2023-11-27 22:44:14,How do I set up auto-pay?,257,0
+100,2023-08-03 01:00:03,I need technical support.,265,0
+101,2023-07-17 07:37:02,How do I track my order?,346,1
+102,2023-06-04 15:18:25,Can I get a copy of my invoice?,537,0
+103,2023-11-26 18:46:18,How do I set up auto-pay?,414,1
+104,2023-03-18 17:35:05,I have a billing issue.,274,1
+105,2023-08-19 14:48:04,The service has been down for hours.,539,0
+106,2023-04-07 17:02:27,How do I connect to Wi-Fi?,486,1
+107,2023-02-19 03:18:45,What's the status of my repair?,354,1
+108,2023-05-25 23:44:16,The service has been down for hours.,459,0
+109,2023-09-26 18:17:08,Can you help me with a refund?,346,1
+110,2023-01-08 10:30:37,How do I change my shipping address?,575,1
+111,2023-10-08 08:11:55,How do I change my shipping address?,330,1
+112,2023-07-31 19:58:26,I need help with my account balance.,229,1
+113,2023-05-29 08:56:04,The service has been down for hours.,119,1
+114,2023-09-26 21:59:10,I want to cancel my subscription.,295,1
+115,2023-08-06 12:21:10,How do I update my email address?,569,1
+116,2023-03-06 20:23:42,Can I reschedule my appointment?,248,0
+117,2023-08-29 00:39:32,Can I speak to a manager?,492,1
+118,2023-11-03 18:36:57,Can I speak to a manager?,292,0
+119,2023-10-30 08:53:08,How do I update my email address?,480,1
+120,2023-04-04 04:46:12,The app keeps crashing.,475,1
+121,2023-01-31 17:55:45,I'm unable to login to my account.,470,0
+122,2023-10-17 20:09:15,My device isn't charging properly.,299,0
+123,2023-08-31 22:07:13,How do I set up auto-pay?,598,1
+124,2023-12-15 23:03:30,I need to update my payment information.,206,0
+125,2023-04-02 17:04:28,Can I reschedule my appointment?,492,1
+126,2023-10-20 15:19:07,How do I set up auto-pay?,260,1
+127,2023-05-11 06:49:00,I'm unable to login to my account.,165,1
+128,2023-05-15 17:31:08,How do I update my email address?,55,0
+129,2023-12-27 22:17:33,I need to update my payment information.,41,0
+130,2023-04-23 22:34:57,I need technical support.,523,0
+131,2023-08-19 05:11:17,I need help with my account balance.,424,0
+132,2023-10-21 11:46:20,How do I change my shipping address?,107,0
+133,2023-02-23 12:18:19,Can you explain my recent charges?,281,1
+134,2023-11-17 11:37:16,How do I update my email address?,383,1
+135,2023-03-31 00:50:30,My device isn't charging properly.,566,1
+136,2023-11-30 21:50:53,How do I track my order?,543,0
+137,2023-04-02 17:31:41,Can you help me with a refund?,106,1
+138,2023-01-17 03:50:49,How do I apply a discount code?,520,1
+139,2023-03-09 05:54:55,How do I track my order?,501,1
+140,2023-04-16 10:44:00,What's the status of my repair?,206,1
+141,2023-02-09 21:41:51,Can you explain my recent charges?,592,1
+142,2023-10-11 04:26:08,My internet is not working properly.,472,1
+143,2023-11-23 19:16:59,How do I connect to Wi-Fi?,44,0
+144,2023-03-13 15:50:16,I need to report a lost card.,108,1
+145,2023-04-14 07:27:28,I need assistance with a warranty claim.,339,0
+146,2023-01-23 17:49:22,How do I connect to Wi-Fi?,204,1
+147,2023-01-18 13:47:54,I'm having trouble with my online order.,144,1
+148,2023-07-03 02:00:43,I need assistance with a warranty claim.,110,1
+149,2023-02-19 12:43:30,How do I apply a discount code?,285,0
+150,2023-08-27 20:38:02,I'm unable to login to my account.,61,0
+151,2023-07-02 16:51:08,I need help with my account balance.,261,0
+152,2023-11-19 09:15:32,I need to update my payment information.,370,1
+153,2023-10-30 12:13:24,Can I get a copy of my invoice?,162,1
+154,2023-06-10 22:46:10,How do I track my order?,80,0
+155,2023-10-03 21:24:31,My package hasn't arrived yet.,146,1
+156,2023-10-17 16:39:05,Can I get a copy of my invoice?,108,0
+157,2023-09-14 13:39:20,I'm having trouble with my online order.,461,0
+158,2023-08-18 04:05:47,Can I reschedule my appointment?,461,0
+159,2023-04-27 16:55:08,How do I reset my password?,129,0
+160,2023-05-17 10:52:00,My package hasn't arrived yet.,31,0
+161,2023-04-21 00:18:43,My device isn't charging properly.,176,1
+162,2023-10-10 15:24:42,I want to upgrade my plan.,592,1
+163,2023-11-23 13:40:23,I need help with my insurance claim.,329,1
+164,2023-08-17 23:32:13,Can you explain my recent charges?,371,1
+165,2023-05-26 23:51:18,Can you explain my recent charges?,43,1
+166,2023-03-24 12:50:54,My device isn't charging properly.,188,0
+167,2023-04-01 13:07:34,I want to cancel my subscription.,478,1
+168,2023-02-22 23:11:42,How do I apply a discount code?,287,0
+169,2023-03-27 21:38:17,How do I track my order?,486,0
+170,2023-04-10 10:37:59,How do I apply a discount code?,470,0
+171,2023-03-22 21:25:21,I want to upgrade my plan.,198,1
+172,2023-04-29 22:41:53,I'm unable to login to my account.,92,0
+173,2023-10-10 14:58:01,Can I reschedule my appointment?,419,1
+174,2023-12-13 06:28:23,How do I track my order?,284,0
+175,2023-04-22 09:56:30,Can you explain my recent charges?,430,1
+176,2023-06-30 21:16:05,I need help with my account balance.,239,0
+177,2023-03-11 07:36:29,I need help with my insurance claim.,305,0
+178,2023-12-13 10:59:16,The service has been down for hours.,256,1
+179,2023-09-01 11:40:30,I need to report a lost card.,423,0
+180,2023-08-18 09:14:28,I need to update my payment information.,46,1
+181,2023-02-17 09:54:45,How do I change my shipping address?,411,1
+182,2023-07-28 01:10:26,I'm unable to login to my account.,583,1
+183,2023-03-20 02:36:49,I need technical support.,224,0
+184,2023-05-11 06:20:43,I need to report a lost card.,176,0
+185,2023-05-03 15:52:10,How do I reset my password?,524,1
+186,2023-11-12 20:07:44,I need assistance with a warranty claim.,191,1
+187,2023-09-20 01:45:03,I want to cancel my subscription.,191,1
+188,2023-08-11 16:34:55,I need help with my insurance claim.,587,0
+189,2023-05-26 23:12:38,I want to cancel my subscription.,529,1
+190,2023-03-12 23:10:10,How do I track my order?,532,1
+191,2023-09-27 23:08:37,I want to cancel my subscription.,564,0
+192,2023-10-01 21:37:07,How do I reset my password?,132,0
+193,2023-05-30 19:22:10,The service has been down for hours.,363,0
+194,2023-03-16 11:15:31,How do I apply a discount code?,252,0
+195,2023-04-23 06:25:27,I have a billing issue.,385,0
+196,2023-09-19 03:39:06,Can I speak to a manager?,485,1
+197,2023-08-17 14:39:49,I need assistance with a warranty claim.,399,0
+198,2023-08-18 12:05:19,How do I track my order?,418,1
+199,2023-04-11 11:40:38,I'm having trouble with my online order.,569,0
+200,2023-11-09 13:32:10,How do I change my shipping address?,266,0
+201,2023-07-13 15:01:26,I need help with my insurance claim.,162,0
+202,2023-06-14 21:28:12,I want to upgrade my plan.,394,0
+203,2023-05-12 22:25:07,The service has been down for hours.,85,1
+204,2023-03-11 07:06:16,Can I reschedule my appointment?,449,1
+205,2023-11-20 13:49:48,My package hasn't arrived yet.,91,1
+206,2023-11-17 22:09:17,I need help with my insurance claim.,307,0
+207,2023-11-02 02:42:52,I have a billing issue.,267,0
+208,2023-11-24 04:53:15,I need to report a lost card.,466,1
+209,2023-06-16 02:16:49,I need help with my account balance.,93,0
+210,2023-05-23 00:25:40,How do I reset my password?,546,0
+211,2023-11-24 16:36:25,What's the status of my repair?,497,1
+212,2023-04-18 13:03:42,I want to upgrade my plan.,33,1
+213,2023-05-04 10:15:45,I want to cancel my subscription.,335,0
+214,2023-08-13 23:44:30,I'm having trouble with my online order.,419,0
+215,2023-06-30 05:37:10,How do I update my email address?,335,1
+216,2023-05-09 00:57:13,I need to report a lost card.,197,0
+217,2023-07-18 16:23:29,I want to upgrade my plan.,105,0
+218,2023-05-30 04:27:53,What's the status of my repair?,489,1
+219,2023-11-01 04:22:24,Can I speak to a manager?,510,1
+220,2023-07-17 07:48:57,My device isn't charging properly.,303,0
+221,2023-03-16 02:21:47,How do I change my shipping address?,297,1
+222,2023-03-08 23:05:21,The app keeps crashing.,423,0
+223,2023-04-29 17:57:55,My internet is not working properly.,204,1
+224,2023-08-07 05:20:46,Can you explain my recent charges?,303,1
+225,2023-11-23 16:16:35,I want to upgrade my plan.,544,1
+226,2023-04-06 02:21:36,I want to upgrade my plan.,470,1
+227,2023-09-04 04:09:39,Can you help me with a refund?,566,1
+228,2023-06-06 01:16:18,How do I set up auto-pay?,446,0
+229,2023-02-03 05:30:29,I want to upgrade my plan.,540,0
+230,2023-01-16 11:06:37,I want to cancel my subscription.,424,1
+231,2023-03-09 17:52:11,What's the status of my repair?,458,0
+232,2023-04-24 00:56:55,The app keeps crashing.,523,0
+233,2023-06-14 15:34:35,My internet is not working properly.,350,1
+234,2023-04-07 14:24:53,How do I update my email address?,582,0
+235,2023-09-11 01:56:34,How do I change my shipping address?,121,0
+236,2023-06-29 03:45:29,The app keeps crashing.,109,1
+237,2023-06-22 04:20:55,How do I reset my password?,483,0
+238,2023-06-26 12:17:47,I need technical support.,137,1
+239,2023-05-25 23:43:55,I'm having trouble with my online order.,101,0
+240,2023-10-17 13:15:12,Can I reschedule my appointment?,36,1
+241,2023-06-15 06:37:29,I want to upgrade my plan.,509,1
+242,2023-11-28 06:01:23,I need help with my account balance.,238,0
+243,2023-01-30 18:22:35,How do I apply a discount code?,206,1
+244,2023-07-01 03:00:52,How do I track my order?,512,1
+245,2023-05-25 02:00:28,I want to cancel my subscription.,456,0
+246,2023-05-04 16:16:51,Can you explain my recent charges?,585,0
+247,2023-12-26 06:51:55,How do I reset my password?,582,1
+248,2023-03-05 13:08:06,How do I reset my password?,549,0
+249,2023-03-31 23:01:58,I have a billing issue.,189,1
+250,2023-10-23 11:29:42,I want to cancel my subscription.,419,0
+251,2023-01-04 02:44:26,How do I apply a discount code?,220,1
+252,2023-11-01 16:08:51,How do I connect to Wi-Fi?,535,1
+253,2023-12-24 20:13:38,What's the status of my repair?,138,0
+254,2023-10-29 13:25:00,How do I reset my password?,278,0
+255,2023-06-12 07:06:41,My package hasn't arrived yet.,242,1
+256,2023-10-11 05:37:38,The service has been down for hours.,453,1
+257,2023-02-24 17:39:20,How do I update my email address?,193,1
+258,2023-06-13 16:17:26,How do I change my shipping address?,517,0
+259,2023-02-12 04:45:22,How do I set up auto-pay?,467,1
+260,2023-07-08 23:59:42,The product I received is defective.,318,1
+261,2023-08-05 23:27:35,How do I set up auto-pay?,223,1
+262,2023-07-28 17:56:30,My package hasn't arrived yet.,85,0
+263,2023-09-06 01:38:56,What's the status of my repair?,429,0
+264,2023-08-29 22:45:27,Can I speak to a manager?,34,0
+265,2023-07-20 17:20:23,I need assistance with a warranty claim.,140,0
+266,2023-05-30 20:33:34,How do I apply a discount code?,533,1
+267,2023-03-02 21:04:49,The product I received is defective.,468,0
+268,2023-07-06 09:03:57,How do I apply a discount code?,200,0
+269,2023-04-22 21:24:13,Can I reschedule my appointment?,572,0
+270,2023-03-24 16:04:08,How do I track my order?,410,1
+271,2023-08-24 20:18:28,I want to cancel my subscription.,432,1
+272,2023-08-10 00:11:08,I'm having trouble with my online order.,269,0
+273,2023-03-24 12:14:17,What's the status of my repair?,98,1
+274,2023-04-23 13:48:05,My internet is not working properly.,273,0
+275,2023-03-14 00:08:28,Can you help me with a refund?,78,0
+276,2023-10-17 02:46:51,I need to report a lost card.,293,0
+277,2023-09-03 04:30:24,Can you help me with a refund?,240,0
+278,2023-07-06 22:53:30,How do I connect to Wi-Fi?,249,1
+279,2023-12-22 04:28:03,How do I track my order?,258,0
+280,2023-05-06 12:15:17,The app keeps crashing.,108,1
+281,2023-12-17 00:06:27,I'm unable to login to my account.,385,1
+282,2023-07-11 02:09:55,Can you explain my recent charges?,595,0
+283,2023-11-13 05:59:31,Can I speak to a manager?,116,0
+284,2023-12-11 06:22:39,I'm having trouble with my online order.,510,1
+285,2023-01-25 21:52:15,I'm unable to login to my account.,365,1
+286,2023-01-31 01:09:30,Can I speak to a manager?,444,1
+287,2023-09-18 20:01:47,I need help with my account balance.,469,0
+288,2023-07-09 19:26:07,How do I update my email address?,166,0
+289,2023-05-23 11:21:06,I need to update my payment information.,557,0
+290,2023-01-19 04:00:44,I'm having trouble with my online order.,237,0
+291,2023-05-02 18:43:47,How do I set up auto-pay?,273,1
+292,2023-08-11 12:30:41,My device isn't charging properly.,514,1
+293,2023-05-12 03:48:48,The product I received is defective.,374,0
+294,2023-09-22 05:04:56,I need help with my account balance.,137,0
+295,2023-12-11 03:25:12,I have a billing issue.,185,1
+296,2023-07-12 09:10:04,How do I change my shipping address?,544,0
+297,2023-06-10 05:07:13,Can I reschedule my appointment?,325,1
+298,2023-12-09 01:52:00,How do I change my shipping address?,139,1
+299,2023-09-17 14:09:29,The service has been down for hours.,141,1
+300,2023-05-30 17:20:46,I need to update my payment information.,368,0
+301,2023-03-25 07:20:31,The service has been down for hours.,46,1
+302,2023-03-04 18:14:33,I need to report a lost card.,202,1
+303,2023-02-28 03:09:29,How do I change my shipping address?,427,0
+304,2023-11-27 15:27:32,My device isn't charging properly.,466,1
+305,2023-09-23 16:55:46,The app keeps crashing.,123,0
+306,2023-03-27 05:40:21,I need help with my insurance claim.,132,1
+307,2023-12-12 07:45:25,The service has been down for hours.,30,0
+308,2023-01-06 17:07:36,Can I speak to a manager?,35,0
+309,2023-10-23 10:43:23,Can I get a copy of my invoice?,243,1
+310,2023-06-29 03:56:43,My device isn't charging properly.,430,1
+311,2023-11-24 03:24:07,How do I change my shipping address?,468,0
+312,2023-12-29 06:23:10,What's the status of my repair?,401,0
+313,2023-03-07 20:32:43,How do I connect to Wi-Fi?,468,1
+314,2023-11-07 16:43:13,How do I update my email address?,205,1
+315,2023-02-04 14:13:11,The service has been down for hours.,77,0
+316,2023-09-29 05:24:42,I need assistance with a warranty claim.,90,1
+317,2023-06-25 05:02:02,How do I reset my password?,344,0
+318,2023-04-06 22:53:31,How do I update my email address?,545,0
+319,2023-01-16 14:27:25,How do I set up auto-pay?,249,0
+320,2023-05-09 16:51:54,The service has been down for hours.,81,1
+321,2023-04-02 13:49:08,I'm having trouble with my online order.,568,1
+322,2023-01-01 23:05:53,I want to cancel my subscription.,391,1
+323,2023-02-06 19:48:41,I need to update my payment information.,216,1
+324,2023-03-07 20:55:28,I need help with my insurance claim.,527,0
+325,2023-05-22 03:29:59,The service has been down for hours.,486,1
+326,2023-07-19 20:29:51,I need help with my insurance claim.,481,0
+327,2023-02-16 06:37:44,Can you explain my recent charges?,500,1
+328,2023-01-29 02:44:13,The product I received is defective.,527,0
+329,2023-12-21 01:26:17,I need technical support.,555,0
+330,2023-11-16 14:31:45,The product I received is defective.,93,0
+331,2023-08-20 03:10:58,Can I reschedule my appointment?,566,0
+332,2023-03-06 02:18:14,How do I change my shipping address?,566,0
+333,2023-07-16 17:50:08,I need technical support.,525,1
+334,2023-10-22 14:10:16,I want to upgrade my plan.,545,0
+335,2023-04-09 21:29:54,The service has been down for hours.,578,0
+336,2023-03-05 17:21:42,I need assistance with a warranty claim.,574,0
+337,2023-08-02 12:18:03,I need assistance with a warranty claim.,83,1
+338,2023-10-24 02:48:55,I have a billing issue.,102,0
+339,2023-01-21 16:58:00,I need help with my account balance.,555,0
+340,2023-04-22 20:59:17,I need help with my insurance claim.,536,1
+341,2023-07-27 10:42:21,I need to update my payment information.,102,0
+342,2023-01-30 18:11:50,Can you explain my recent charges?,403,1
+343,2023-03-12 03:50:36,I need help with my account balance.,255,0
+344,2023-12-20 16:49:49,I need to report a lost card.,214,1
+345,2023-02-03 11:57:53,I want to upgrade my plan.,359,1
+346,2023-04-29 23:30:31,The product I received is defective.,556,1
+347,2023-08-14 18:44:38,I need technical support.,527,1
+348,2023-10-25 15:57:06,The service has been down for hours.,236,1
+349,2023-01-26 13:04:52,How do I reset my password?,451,1
+350,2023-06-15 06:18:17,How do I apply a discount code?,548,1
+351,2023-11-02 08:33:35,My internet is not working properly.,595,1
+352,2023-04-20 23:28:17,My device isn't charging properly.,378,0
+353,2023-08-11 21:21:00,Can I speak to a manager?,193,0
+354,2023-06-18 05:51:44,How do I connect to Wi-Fi?,449,0
+355,2023-06-14 16:34:11,How do I update my email address?,573,0
+356,2023-02-23 00:02:42,My package hasn't arrived yet.,378,1
+357,2023-03-20 13:07:01,Can you help me with a refund?,184,1
+358,2023-05-15 14:45:44,How do I connect to Wi-Fi?,178,0
+359,2023-06-29 01:50:25,I'm having trouble with my online order.,211,0
+360,2023-08-07 19:16:40,I need to update my payment information.,492,0
+361,2023-09-17 23:18:09,I need help with my account balance.,255,0
+362,2023-04-23 17:02:49,I'm having trouble with my online order.,195,1
+363,2023-07-21 12:11:47,My internet is not working properly.,433,0
+364,2023-12-18 18:08:26,How do I update my email address?,282,0
+365,2023-06-03 08:11:30,Can you explain my recent charges?,32,1
+366,2023-06-14 11:53:35,Can you help me with a refund?,456,0
+367,2023-12-14 20:39:10,How do I track my order?,314,0
+368,2023-05-20 12:13:12,Can you help me with a refund?,162,1
+369,2023-03-21 23:52:10,I need to update my payment information.,328,0
+370,2023-06-15 21:35:17,My device isn't charging properly.,37,0
+371,2023-07-06 04:28:35,How do I apply a discount code?,489,1
+372,2023-09-26 08:45:41,I need technical support.,594,0
+373,2023-06-20 11:27:08,My device isn't charging properly.,145,0
+374,2023-05-30 20:41:30,I need help with my account balance.,201,1
+375,2023-08-10 09:30:21,The service has been down for hours.,591,1
+376,2023-02-16 21:12:36,My device isn't charging properly.,520,1
+377,2023-11-03 21:01:03,The product I received is defective.,543,1
+378,2023-04-09 00:47:18,The product I received is defective.,38,1
+379,2023-08-02 02:51:57,My package hasn't arrived yet.,68,1
+380,2023-06-24 01:38:16,The product I received is defective.,176,0
+381,2023-05-08 07:00:24,How do I change my shipping address?,158,0
+382,2023-09-27 03:21:27,My internet is not working properly.,209,1
+383,2023-04-14 01:55:02,Can you help me with a refund?,573,0
+384,2023-01-19 00:55:57,My internet is not working properly.,40,0
+385,2023-07-16 16:22:08,How do I set up auto-pay?,598,0
+386,2023-11-24 07:05:33,How do I change my shipping address?,529,0
+387,2023-04-22 12:05:46,I want to cancel my subscription.,142,0
+388,2023-02-13 21:14:23,How do I reset my password?,420,0
+389,2023-06-29 00:40:23,My package hasn't arrived yet.,352,1
+390,2023-07-15 09:20:09,I need help with my account balance.,498,0
+391,2023-02-16 14:53:50,I need help with my account balance.,205,1
+392,2023-10-03 02:52:55,The service has been down for hours.,184,1
+393,2023-09-19 22:16:48,Can you help me with a refund?,465,0
+394,2023-08-10 03:42:54,How do I update my email address?,353,0
+395,2023-10-04 07:10:32,I'm unable to login to my account.,80,0
+396,2023-12-07 16:23:39,My device isn't charging properly.,125,1
+397,2023-04-10 03:32:33,The product I received is defective.,546,0
+398,2023-03-21 05:51:20,How do I update my email address?,456,0
+399,2023-06-06 15:28:28,How do I connect to Wi-Fi?,577,0
+400,2023-11-15 10:56:18,Can you explain my recent charges?,564,0
+401,2023-05-09 23:01:42,Can you help me with a refund?,178,1
+402,2023-08-23 02:11:31,The app keeps crashing.,89,1
+403,2023-07-01 00:09:37,I need help with my insurance claim.,247,1
+404,2023-03-24 22:52:00,I want to upgrade my plan.,326,0
+405,2023-10-16 03:08:32,I need help with my account balance.,491,0
+406,2023-11-18 10:06:27,How do I reset my password?,300,1
+407,2023-11-06 22:20:16,My internet is not working properly.,346,1
+408,2023-04-29 07:52:26,Can I speak to a manager?,494,1
+409,2023-09-19 12:47:24,I need to update my payment information.,481,0
+410,2023-05-07 22:17:08,Can I speak to a manager?,584,0
+411,2023-04-13 22:03:42,How do I update my email address?,156,1
+412,2023-03-20 15:43:41,Can you explain my recent charges?,588,1
+413,2023-11-27 15:20:31,I need to update my payment information.,238,1
+414,2023-05-12 05:47:14,I have a billing issue.,182,1
+415,2023-07-16 09:13:06,What's the status of my repair?,352,0
+416,2023-12-07 01:15:24,The service has been down for hours.,340,0
+417,2023-08-30 13:39:36,My internet is not working properly.,450,1
+418,2023-06-08 04:25:16,I need help with my account balance.,463,0
+419,2023-07-10 19:16:21,I need help with my account balance.,193,1
+420,2023-05-14 15:56:13,How do I set up auto-pay?,350,0
+421,2023-11-01 08:41:46,How do I apply a discount code?,54,0
+422,2023-02-21 02:01:57,My device isn't charging properly.,104,0
+423,2023-01-07 16:04:03,The app keeps crashing.,557,0
+424,2023-12-02 19:48:36,Can I speak to a manager?,94,0
+425,2023-05-12 19:00:37,The app keeps crashing.,532,1
+426,2023-12-03 13:29:32,Can I reschedule my appointment?,491,0
+427,2023-05-24 15:16:51,I'm having trouble with my online order.,134,1
+428,2023-05-30 19:51:45,I want to cancel my subscription.,81,0
+429,2023-09-09 21:23:14,My package hasn't arrived yet.,235,0
+430,2023-12-13 03:04:30,The product I received is defective.,131,1
+431,2023-01-06 22:14:03,I need help with my insurance claim.,398,1
+432,2023-04-15 20:52:43,I need to report a lost card.,163,0
+433,2023-07-15 09:40:54,How do I apply a discount code?,478,0
+434,2023-08-02 22:22:20,How do I update my email address?,368,0
+435,2023-10-11 05:28:36,Can you explain my recent charges?,435,0
+436,2023-03-24 00:12:11,What's the status of my repair?,55,1
+437,2023-11-15 18:50:13,Can I speak to a manager?,289,0
+438,2023-04-09 04:17:35,Can I get a copy of my invoice?,70,0
+439,2023-05-17 01:25:52,The service has been down for hours.,586,1
+440,2023-03-15 01:02:37,How do I update my email address?,292,1
+441,2023-01-31 02:40:33,I'm unable to login to my account.,495,1
+442,2023-11-02 18:35:14,Can I speak to a manager?,210,1
+443,2023-03-04 04:21:58,How do I apply a discount code?,439,1
+444,2023-01-13 20:43:55,How do I set up auto-pay?,485,0
+445,2023-11-14 12:50:44,Can you explain my recent charges?,555,1
+446,2023-05-27 06:01:26,My device isn't charging properly.,272,1
+447,2023-05-26 11:37:11,Can I reschedule my appointment?,340,0
+448,2023-06-10 14:38:13,How do I reset my password?,570,0
+449,2023-10-19 02:49:02,The service has been down for hours.,559,1
+450,2023-05-03 10:42:18,Can I reschedule my appointment?,171,0
+451,2023-04-15 00:50:44,I need technical support.,344,0
+452,2023-12-08 23:30:15,How do I connect to Wi-Fi?,57,0
+453,2023-01-04 20:39:58,Can I speak to a manager?,410,0
+454,2023-07-17 09:31:58,I want to upgrade my plan.,299,0
+455,2023-11-26 01:04:17,My package hasn't arrived yet.,586,0
+456,2023-06-25 22:28:11,Can I get a copy of my invoice?,162,1
+457,2023-10-10 03:40:43,I'm having trouble with my online order.,75,0
+458,2023-06-12 07:58:55,Can I get a copy of my invoice?,150,0
+459,2023-06-06 01:49:54,My device isn't charging properly.,289,1
+460,2023-11-16 22:48:55,Can I speak to a manager?,522,0
+461,2023-10-21 00:43:48,I have a billing issue.,343,0
+462,2023-03-08 14:11:42,I need technical support.,433,0
+463,2023-08-27 08:42:32,My package hasn't arrived yet.,114,0
+464,2023-08-18 19:40:56,I need help with my insurance claim.,136,0
+465,2023-02-19 09:41:02,I'm having trouble with my online order.,445,0
+466,2023-06-29 10:45:16,Can you explain my recent charges?,349,1
+467,2023-03-16 20:46:55,How do I track my order?,512,1
+468,2023-02-14 00:01:15,How do I change my shipping address?,382,0
+469,2023-02-26 13:11:40,Can I speak to a manager?,413,1
+470,2023-03-21 05:24:17,My device isn't charging properly.,466,1
+471,2023-08-11 15:17:33,I need technical support.,146,1
+472,2023-11-10 12:00:18,I'm unable to login to my account.,234,1
+473,2023-03-18 02:31:51,I'm having trouble with my online order.,318,1
+474,2023-09-28 22:35:48,What's the status of my repair?,187,1
+475,2023-02-13 13:24:52,How do I connect to Wi-Fi?,469,0
+476,2023-08-24 13:29:14,I need technical support.,261,1
+477,2023-02-20 14:55:26,What's the status of my repair?,437,0
+478,2023-08-22 01:24:09,What's the status of my repair?,165,1
+479,2023-09-08 01:47:17,How do I set up auto-pay?,448,0
+480,2023-03-15 08:58:49,Can you help me with a refund?,552,1
+481,2023-03-05 07:45:34,Can I speak to a manager?,169,0
+482,2023-11-08 20:42:14,My package hasn't arrived yet.,459,1
+483,2023-07-21 13:08:48,I want to upgrade my plan.,99,1
+484,2023-08-01 07:33:35,How do I set up auto-pay?,378,0
+485,2023-02-09 14:20:02,I need to report a lost card.,180,0
+486,2023-04-05 01:46:27,How do I set up auto-pay?,597,0
+487,2023-04-29 04:57:49,What's the status of my repair?,167,1
+488,2023-10-10 13:02:46,I want to cancel my subscription.,299,0
+489,2023-09-05 11:27:06,What's the status of my repair?,416,0
+490,2023-01-04 21:37:17,How do I track my order?,297,0
+491,2023-01-18 07:24:05,I need to update my payment information.,570,1
+492,2023-02-01 12:37:33,How do I set up auto-pay?,278,1
+493,2023-11-11 09:40:06,Can I get a copy of my invoice?,505,1
+494,2023-09-16 02:02:34,My package hasn't arrived yet.,532,1
+495,2023-12-10 05:53:21,How do I connect to Wi-Fi?,213,0
+496,2023-06-17 05:04:05,Can I get a copy of my invoice?,255,0
+497,2023-05-17 06:29:22,What's the status of my repair?,562,1
+498,2023-07-05 03:31:51,I need technical support.,64,0
+499,2023-06-23 14:01:18,I'm having trouble with my online order.,287,0
+500,2023-09-20 04:59:18,How do I connect to Wi-Fi?,263,1
+501,2023-02-21 23:19:52,How do I reset my password?,560,0
+502,2023-07-27 23:07:22,I have a billing issue.,288,1
+503,2023-07-16 03:34:23,My package hasn't arrived yet.,157,0
+504,2023-08-27 23:16:17,How do I apply a discount code?,322,1
+505,2023-04-11 11:31:46,Can I speak to a manager?,226,0
+506,2023-07-22 11:16:21,What's the status of my repair?,524,1
+507,2023-02-18 08:27:30,I need to report a lost card.,502,1
+508,2023-04-13 05:45:46,Can you help me with a refund?,351,1
+509,2023-01-20 10:21:04,I need to update my payment information.,129,1
+510,2023-09-30 06:37:52,How do I set up auto-pay?,77,0
+511,2023-05-28 22:57:09,Can you explain my recent charges?,247,0
+512,2023-07-25 13:19:52,Can you help me with a refund?,559,0
+513,2023-11-23 18:36:31,I need help with my insurance claim.,488,1
+514,2023-01-26 18:47:43,How do I connect to Wi-Fi?,497,0
+515,2023-06-29 13:45:04,Can I speak to a manager?,228,0
+516,2023-12-13 15:47:51,I need help with my account balance.,261,0
+517,2023-10-11 15:27:10,I need technical support.,464,1
+518,2023-03-21 12:29:49,My package hasn't arrived yet.,447,0
+519,2023-12-03 04:22:32,I'm unable to login to my account.,95,0
+520,2023-08-15 17:05:47,How do I track my order?,315,0
+521,2023-04-15 11:22:26,I need to report a lost card.,337,1
+522,2023-09-23 16:21:13,I'm unable to login to my account.,103,1
+523,2023-08-22 07:14:03,How do I connect to Wi-Fi?,540,1
+524,2023-10-08 16:25:49,The product I received is defective.,136,0
+525,2023-09-19 19:32:04,The product I received is defective.,391,1
+526,2023-10-02 08:23:21,How do I change my shipping address?,49,1
+527,2023-05-12 03:57:35,I need help with my account balance.,87,0
+528,2023-01-06 22:36:35,Can I speak to a manager?,82,0
+529,2023-11-10 15:07:00,I need help with my account balance.,288,0
+530,2023-03-05 17:56:23,My device isn't charging properly.,95,0
+531,2023-09-05 10:52:55,How do I reset my password?,196,1
+532,2023-12-27 03:48:55,I need to report a lost card.,425,0
+533,2023-08-14 01:23:33,I want to upgrade my plan.,435,0
+534,2023-05-13 08:45:18,I need technical support.,119,0
+535,2023-02-26 23:39:28,How do I reset my password?,515,1
+536,2023-08-02 06:07:44,I have a billing issue.,156,0
+537,2023-01-04 19:48:34,How do I change my shipping address?,382,0
+538,2023-07-01 01:58:57,I need to report a lost card.,46,0
+539,2023-06-15 23:43:39,Can I get a copy of my invoice?,458,1
+540,2023-03-16 04:53:59,Can you explain my recent charges?,461,0
+541,2023-06-04 00:26:24,I want to upgrade my plan.,340,0
+542,2023-11-25 11:53:30,How do I set up auto-pay?,32,0
+543,2023-12-26 18:40:43,The app keeps crashing.,63,0
+544,2023-11-28 16:46:54,How do I set up auto-pay?,300,1
+545,2023-03-12 03:29:38,What's the status of my repair?,124,1
+546,2023-03-09 01:58:05,How do I track my order?,386,1
+547,2023-01-22 16:29:37,I want to upgrade my plan.,450,1
+548,2023-04-03 11:55:14,How do I set up auto-pay?,298,0
+549,2023-06-16 20:17:12,Can I reschedule my appointment?,558,0
+550,2023-08-05 11:02:54,Can I speak to a manager?,510,0
+551,2023-11-12 23:51:01,The product I received is defective.,95,1
+552,2023-11-13 21:30:52,I'm unable to login to my account.,585,1
+553,2023-03-15 21:59:19,I want to upgrade my plan.,134,1
+554,2023-04-17 08:34:27,Can I speak to a manager?,200,1
+555,2023-12-07 18:13:51,My package hasn't arrived yet.,123,1
+556,2023-06-17 05:17:44,My internet is not working properly.,86,0
+557,2023-06-03 10:44:20,How do I apply a discount code?,338,0
+558,2023-05-03 20:59:32,Can I reschedule my appointment?,379,1
+559,2023-12-14 01:49:40,Can I get a copy of my invoice?,526,0
+560,2023-05-18 22:05:43,Can I reschedule my appointment?,118,0
+561,2023-09-08 18:41:41,How do I apply a discount code?,96,0
+562,2023-07-22 13:28:05,How do I update my email address?,225,0
+563,2023-09-15 23:56:53,I need assistance with a warranty claim.,325,1
+564,2023-11-25 02:01:34,The product I received is defective.,496,0
+565,2023-06-12 11:23:55,How do I update my email address?,88,0
+566,2023-04-13 01:58:14,My device isn't charging properly.,482,1
+567,2023-11-24 13:55:58,I need help with my insurance claim.,57,1
+568,2023-03-22 06:05:32,I need assistance with a warranty claim.,213,1
+569,2023-10-28 11:52:40,I need help with my account balance.,349,1
+570,2023-09-21 07:11:06,Can you explain my recent charges?,554,0
+571,2023-01-11 09:37:29,How do I track my order?,175,0
+572,2023-11-05 23:45:19,My device isn't charging properly.,174,0
+573,2023-06-17 06:11:48,The product I received is defective.,152,0
+574,2023-06-13 17:30:42,My internet is not working properly.,42,0
+575,2023-11-05 01:40:32,My internet is not working properly.,541,0
+576,2023-03-05 12:10:27,The service has been down for hours.,494,1
+577,2023-03-08 16:22:10,I need technical support.,253,1
+578,2023-11-07 01:07:38,The product I received is defective.,33,1
+579,2023-04-14 18:43:42,Can I speak to a manager?,506,1
+580,2023-07-22 20:30:37,I want to cancel my subscription.,549,0
+581,2023-10-13 21:12:24,I need assistance with a warranty claim.,555,0
+582,2023-02-23 18:50:06,How do I connect to Wi-Fi?,222,1
+583,2023-12-12 16:16:55,I need help with my account balance.,88,1
+584,2023-11-24 01:56:28,The product I received is defective.,512,0
+585,2023-09-05 22:23:29,I'm unable to login to my account.,144,0
+586,2023-03-17 13:45:02,The service has been down for hours.,341,1
+587,2023-01-09 05:09:06,Can you help me with a refund?,343,0
+588,2023-03-08 03:13:04,I need help with my account balance.,577,1
+589,2023-06-15 12:37:21,How do I connect to Wi-Fi?,501,1
+590,2023-12-12 22:29:50,I'm unable to login to my account.,38,0
+591,2023-02-03 10:20:33,The app keeps crashing.,259,0
+592,2023-09-11 12:59:34,Can I get a copy of my invoice?,317,1
+593,2023-01-21 06:08:48,The product I received is defective.,409,1
+594,2023-05-11 03:27:21,I want to cancel my subscription.,462,1
+595,2023-07-18 02:31:37,I need assistance with a warranty claim.,201,1
+596,2023-07-10 20:37:46,I need help with my insurance claim.,488,1
+597,2023-01-25 00:03:54,The product I received is defective.,406,1
+598,2023-09-02 18:46:27,I'm unable to login to my account.,499,0
+599,2023-02-13 05:36:59,Can you help me with a refund?,63,0
+600,2023-07-26 19:40:55,The product I received is defective.,229,1
+601,2023-02-15 14:19:41,I need to report a lost card.,385,1
+602,2023-03-04 03:05:51,I want to upgrade my plan.,395,0
+603,2023-09-23 02:04:21,How do I apply a discount code?,522,0
+604,2023-09-27 17:06:43,I want to cancel my subscription.,202,1
+605,2023-10-15 02:25:06,I have a billing issue.,219,0
+606,2023-11-12 22:41:08,I have a billing issue.,94,1
+607,2023-03-01 05:21:58,I need assistance with a warranty claim.,305,0
+608,2023-03-10 18:54:35,I need technical support.,266,1
+609,2023-02-16 06:07:15,I want to upgrade my plan.,339,1
+610,2023-09-07 10:43:53,I need technical support.,110,1
+611,2023-07-06 08:29:05,I want to upgrade my plan.,91,1
+612,2023-11-21 10:18:55,My package hasn't arrived yet.,488,1
+613,2023-10-11 11:34:25,I want to upgrade my plan.,510,0
+614,2023-07-24 22:42:42,I'm unable to login to my account.,584,0
+615,2023-05-10 14:14:59,I need technical support.,572,0
+616,2023-05-15 22:54:07,The app keeps crashing.,280,1
+617,2023-04-10 07:57:45,Can I speak to a manager?,328,0
+618,2023-06-15 03:20:36,I need technical support.,452,1
+619,2023-05-13 03:30:46,I need help with my account balance.,587,0
+620,2023-07-29 17:09:43,Can you help me with a refund?,92,1
+621,2023-05-06 10:58:14,How do I connect to Wi-Fi?,153,0
+622,2023-10-28 08:19:39,I have a billing issue.,426,1
+623,2023-08-16 06:57:23,I need help with my insurance claim.,286,0
+624,2023-04-20 08:56:30,I'm unable to login to my account.,261,1
+625,2023-01-06 01:52:42,I need to report a lost card.,464,0
+626,2023-06-25 21:15:30,The service has been down for hours.,142,1
+627,2023-03-19 13:42:59,I want to upgrade my plan.,345,1
+628,2023-07-05 20:28:20,My internet is not working properly.,491,1
+629,2023-05-02 00:22:26,How do I change my shipping address?,452,0
+630,2023-10-06 10:06:01,How do I change my shipping address?,282,0
+631,2023-09-23 01:36:34,My package hasn't arrived yet.,463,0
+632,2023-06-27 07:37:06,How do I apply a discount code?,93,0
+633,2023-10-18 15:38:59,I want to cancel my subscription.,377,0
+634,2023-05-03 07:03:35,How do I set up auto-pay?,387,0
+635,2023-08-31 22:47:43,The app keeps crashing.,46,0
+636,2023-10-03 20:45:55,I'm having trouble with my online order.,296,0
+637,2023-04-01 09:22:30,Can I get a copy of my invoice?,363,1
+638,2023-04-30 19:36:08,How do I update my email address?,481,0
+639,2023-05-13 13:38:57,How do I set up auto-pay?,107,1
+640,2023-10-15 00:07:56,I need assistance with a warranty claim.,575,1
+641,2023-06-28 04:51:21,Can I get a copy of my invoice?,431,0
+642,2023-09-06 21:32:57,I want to upgrade my plan.,449,1
+643,2023-04-10 10:10:12,I need to report a lost card.,32,0
+644,2023-02-05 04:58:52,My package hasn't arrived yet.,180,1
+645,2023-10-05 19:13:06,How do I set up auto-pay?,527,0
+646,2023-02-24 15:40:11,My device isn't charging properly.,510,0
+647,2023-04-02 12:53:46,I want to cancel my subscription.,385,0
+648,2023-01-08 03:42:12,Can I get a copy of my invoice?,139,1
+649,2023-08-23 07:48:59,How do I set up auto-pay?,551,1
+650,2023-02-27 00:51:03,I need help with my account balance.,88,0
+651,2023-01-20 00:36:28,I need help with my account balance.,169,0
+652,2023-08-13 14:29:47,I need to update my payment information.,587,1
+653,2023-03-19 16:41:51,I want to upgrade my plan.,365,0
+654,2023-07-23 08:40:34,What's the status of my repair?,255,1
+655,2023-09-27 23:46:13,I need help with my account balance.,343,0
+656,2023-02-08 12:21:20,How do I change my shipping address?,120,1
+657,2023-01-21 16:13:03,Can I get a copy of my invoice?,159,1
+658,2023-08-26 02:09:33,I want to upgrade my plan.,368,1
+659,2023-07-18 04:19:06,I'm having trouble with my online order.,469,1
+660,2023-10-10 13:43:44,My internet is not working properly.,126,1
+661,2023-09-16 18:17:36,I need to report a lost card.,218,0
+662,2023-01-02 11:27:36,Can I reschedule my appointment?,313,1
+663,2023-04-16 23:45:30,I have a billing issue.,219,0
+664,2023-06-12 02:06:08,How do I track my order?,406,1
+665,2023-05-29 15:28:24,I need help with my insurance claim.,135,1
+666,2023-08-25 16:08:55,Can you help me with a refund?,31,0
+667,2023-05-12 10:16:02,The product I received is defective.,223,1
+668,2023-05-18 18:38:23,How do I change my shipping address?,332,1
+669,2023-01-06 15:30:15,I'm having trouble with my online order.,576,0
+670,2023-02-10 03:21:01,Can you help me with a refund?,313,1
+671,2023-09-28 04:39:36,I need help with my insurance claim.,326,1
+672,2023-03-05 05:55:28,How do I apply a discount code?,363,0
+673,2023-03-22 08:52:19,I want to upgrade my plan.,97,0
+674,2023-08-05 08:40:11,How do I set up auto-pay?,76,0
+675,2023-02-16 07:31:45,My package hasn't arrived yet.,597,0
+676,2023-06-23 15:04:56,The app keeps crashing.,46,1
+677,2023-04-01 05:51:48,How do I update my email address?,39,1
+678,2023-04-21 20:53:30,Can you help me with a refund?,322,0
+679,2023-04-22 19:23:00,Can I get a copy of my invoice?,263,0
+680,2023-12-17 05:55:01,Can I get a copy of my invoice?,458,1
+681,2023-09-11 01:33:20,I need technical support.,525,1
+682,2023-12-09 10:01:09,My internet is not working properly.,532,1
+683,2023-04-02 23:09:28,I need to report a lost card.,223,1
+684,2023-09-15 05:08:44,The app keeps crashing.,383,0
+685,2023-04-27 03:29:15,I need to report a lost card.,386,1
+686,2023-07-21 14:09:43,How do I reset my password?,258,0
+687,2023-03-24 03:50:25,The product I received is defective.,457,1
+688,2023-11-06 09:01:01,I need to update my payment information.,88,0
+689,2023-11-24 16:35:31,How do I apply a discount code?,50,1
+690,2023-06-19 22:59:18,My internet is not working properly.,188,0
+691,2023-02-01 11:07:25,I want to cancel my subscription.,290,0
+692,2023-01-12 06:01:49,Can I reschedule my appointment?,265,1
+693,2023-09-15 05:02:33,I need assistance with a warranty claim.,485,1
+694,2023-09-13 08:21:43,I need assistance with a warranty claim.,513,0
+695,2023-01-29 23:01:24,I need to update my payment information.,61,1
+696,2023-04-04 03:31:39,Can I get a copy of my invoice?,426,0
+697,2023-12-07 00:42:46,The product I received is defective.,248,0
+698,2023-10-16 02:23:58,I have a billing issue.,254,1
+699,2023-01-29 19:12:10,I want to upgrade my plan.,107,1
+700,2023-12-19 04:33:25,I want to cancel my subscription.,99,0
+701,2023-03-27 16:04:49,Can I get a copy of my invoice?,470,1
+702,2023-01-03 13:28:40,How do I change my shipping address?,443,1
+703,2023-03-17 18:59:42,How do I connect to Wi-Fi?,355,1
+704,2023-10-19 23:39:54,I want to cancel my subscription.,64,1
+705,2023-07-01 14:01:19,The product I received is defective.,254,1
+706,2023-09-18 03:05:58,How do I apply a discount code?,438,1
+707,2023-05-09 09:33:25,I need assistance with a warranty claim.,272,0
+708,2023-02-12 12:34:14,How do I change my shipping address?,485,0
+709,2023-09-30 15:04:40,I'm unable to login to my account.,360,1
+710,2023-06-21 02:43:47,How do I change my shipping address?,335,1
+711,2023-08-29 19:50:44,How do I track my order?,406,0
+712,2023-03-05 18:56:06,What's the status of my repair?,254,1
+713,2023-08-19 22:15:02,I want to upgrade my plan.,513,0
+714,2023-06-19 04:29:37,I'm unable to login to my account.,286,0
+715,2023-04-19 19:25:50,Can I speak to a manager?,450,1
+716,2023-08-01 01:54:05,I'm having trouble with my online order.,226,1
+717,2023-01-09 14:34:22,How do I change my shipping address?,570,1
+718,2023-02-01 20:00:13,Can I get a copy of my invoice?,134,1
+719,2023-07-07 14:38:09,How do I update my email address?,466,0
+720,2023-08-28 04:42:53,How do I connect to Wi-Fi?,369,0
+721,2023-08-28 00:13:08,I need help with my account balance.,527,0
+722,2023-10-07 04:42:58,I need to update my payment information.,566,0
+723,2023-06-08 21:40:41,How do I connect to Wi-Fi?,509,0
+724,2023-03-31 08:02:25,I need help with my insurance claim.,98,1
+725,2023-11-28 07:19:05,I want to upgrade my plan.,181,1
+726,2023-08-29 07:37:53,How do I update my email address?,515,0
+727,2023-05-05 15:11:26,How do I track my order?,49,0
+728,2023-03-31 14:19:54,I want to upgrade my plan.,116,0
+729,2023-03-31 17:04:48,I need to update my payment information.,58,1
+730,2023-03-20 17:01:32,How do I connect to Wi-Fi?,309,1
+731,2023-12-09 16:50:10,Can you help me with a refund?,231,0
+732,2023-02-06 07:55:48,I need assistance with a warranty claim.,210,0
+733,2023-01-03 17:28:29,The app keeps crashing.,311,1
+734,2023-10-20 04:06:19,I'm having trouble with my online order.,129,0
+735,2023-03-01 10:38:53,Can you explain my recent charges?,408,1
+736,2023-03-09 03:05:50,I have a billing issue.,173,1
+737,2023-06-01 02:20:21,Can I speak to a manager?,164,1
+738,2023-11-11 04:02:37,My internet is not working properly.,404,1
+739,2023-11-04 03:25:35,My device isn't charging properly.,339,1
+740,2023-06-25 15:13:10,I'm having trouble with my online order.,266,1
+741,2023-11-26 10:27:52,Can I speak to a manager?,50,1
+742,2023-03-01 12:15:43,I need assistance with a warranty claim.,46,0
+743,2023-07-18 06:39:28,Can you explain my recent charges?,54,0
+744,2023-09-26 04:01:41,How do I change my shipping address?,32,0
+745,2023-10-04 12:45:30,Can you help me with a refund?,346,0
+746,2023-06-12 05:19:59,I want to cancel my subscription.,224,0
+747,2023-04-18 01:50:43,I have a billing issue.,176,0
+748,2023-03-04 23:27:46,How do I track my order?,40,0
+749,2023-07-04 04:30:05,How do I change my shipping address?,118,1
+750,2023-02-06 21:52:43,I have a billing issue.,335,1
+751,2023-04-08 03:56:29,My device isn't charging properly.,82,0
+752,2023-10-09 06:23:49,How do I apply a discount code?,346,0
+753,2023-01-19 05:09:41,I want to upgrade my plan.,244,1
+754,2023-11-07 00:57:05,I'm unable to login to my account.,31,1
+755,2023-04-28 13:46:50,The app keeps crashing.,411,1
+756,2023-01-30 18:44:58,The product I received is defective.,72,0
+757,2023-01-03 16:49:08,I'm having trouble with my online order.,350,1
+758,2023-12-30 02:48:38,How do I set up auto-pay?,583,0
+759,2023-01-15 12:07:56,Can I speak to a manager?,79,1
+760,2023-09-13 00:26:59,I have a billing issue.,144,0
+761,2023-06-28 17:09:10,I have a billing issue.,40,1
+762,2023-02-24 10:25:04,What's the status of my repair?,261,1
+763,2023-05-04 21:32:24,I want to cancel my subscription.,412,0
+764,2023-09-24 22:03:42,I'm having trouble with my online order.,297,1
+765,2023-03-21 17:59:21,I need to report a lost card.,116,0
+766,2023-04-13 13:40:08,How do I change my shipping address?,374,0
+767,2023-02-06 10:43:52,I have a billing issue.,335,0
+768,2023-01-17 22:31:04,How do I connect to Wi-Fi?,359,0
+769,2023-10-29 22:54:22,How do I connect to Wi-Fi?,469,0
+770,2023-08-25 04:48:20,The app keeps crashing.,177,0
+771,2023-06-10 20:09:05,I need to report a lost card.,374,1
+772,2023-01-26 08:27:02,How do I connect to Wi-Fi?,409,1
+773,2023-07-12 05:54:03,How do I reset my password?,194,0
+774,2023-02-08 01:15:49,I want to cancel my subscription.,596,1
+775,2023-12-08 12:14:30,My device isn't charging properly.,45,0
+776,2023-04-18 11:03:47,What's the status of my repair?,78,1
+777,2023-07-05 01:01:51,How do I track my order?,349,0
+778,2023-10-14 07:39:22,I need help with my insurance claim.,437,1
+779,2023-11-13 21:02:25,The service has been down for hours.,301,1
+780,2023-10-02 06:50:19,The service has been down for hours.,62,1
+781,2023-02-21 06:07:31,I need to update my payment information.,415,1
+782,2023-08-17 10:10:54,I'm having trouble with my online order.,208,0
+783,2023-09-01 16:42:10,I need assistance with a warranty claim.,102,0
+784,2023-07-21 15:23:14,I want to cancel my subscription.,370,0
+785,2023-03-12 06:55:50,I need help with my insurance claim.,101,1
+786,2023-10-27 07:52:39,How do I update my email address?,551,0
+787,2023-11-11 15:36:45,The service has been down for hours.,168,0
+788,2023-11-02 09:27:18,I'm unable to login to my account.,581,0
+789,2023-10-23 19:40:56,Can I speak to a manager?,266,1
+790,2023-07-18 19:03:22,How do I change my shipping address?,69,1
+791,2023-08-01 11:58:32,I need assistance with a warranty claim.,346,0
+792,2023-10-31 19:32:17,I need help with my account balance.,182,0
+793,2023-03-23 04:17:23,My internet is not working properly.,447,0
+794,2023-04-18 21:16:12,How do I set up auto-pay?,97,1
+795,2023-07-25 22:12:47,How do I set up auto-pay?,198,0
+796,2023-05-13 07:35:12,I want to cancel my subscription.,350,1
+797,2023-05-29 16:16:58,I need assistance with a warranty claim.,592,0
+798,2023-06-08 05:55:17,The service has been down for hours.,448,0
+799,2023-10-05 04:19:18,I'm unable to login to my account.,98,0
+800,2023-06-04 18:19:26,How do I update my email address?,124,0
+801,2023-09-10 03:08:43,How do I reset my password?,552,1
+802,2023-02-24 02:11:16,I need help with my account balance.,426,1
+803,2023-08-11 17:47:29,How do I set up auto-pay?,83,0
+804,2023-03-25 17:36:14,How do I track my order?,336,0
+805,2023-11-26 22:33:50,My package hasn't arrived yet.,570,1
+806,2023-02-20 09:41:55,I'm unable to login to my account.,135,1
+807,2023-09-28 03:39:18,The service has been down for hours.,300,1
+808,2023-08-05 15:48:09,My package hasn't arrived yet.,269,1
+809,2023-08-09 22:21:15,I need technical support.,116,1
+810,2023-11-22 21:08:06,Can you help me with a refund?,172,1
+811,2023-03-05 06:18:06,I want to upgrade my plan.,199,1
+812,2023-02-17 09:38:01,I need to report a lost card.,554,1
+813,2023-05-03 08:17:39,How do I connect to Wi-Fi?,438,0
+814,2023-09-01 00:58:09,How do I connect to Wi-Fi?,359,0
+815,2023-08-01 19:09:48,I need help with my account balance.,578,1
+816,2023-07-07 11:42:46,How do I set up auto-pay?,427,1
+817,2023-04-24 23:03:03,My device isn't charging properly.,554,1
+818,2023-06-27 06:45:03,My internet is not working properly.,297,1
+819,2023-04-01 03:53:56,I need help with my insurance claim.,288,1
+820,2023-10-04 16:56:44,I need technical support.,530,1
+821,2023-08-07 05:23:44,I want to upgrade my plan.,595,1
+822,2023-06-25 04:50:53,I'm unable to login to my account.,181,0
+823,2023-02-25 23:17:47,The service has been down for hours.,533,1
+824,2023-08-07 21:10:34,How do I update my email address?,50,0
+825,2023-11-28 11:24:36,How do I apply a discount code?,189,1
+826,2023-03-23 03:49:25,I need to update my payment information.,238,0
+827,2023-03-19 11:19:27,The product I received is defective.,528,0
+828,2023-05-28 19:06:04,My device isn't charging properly.,345,0
+829,2023-07-02 03:42:19,How do I connect to Wi-Fi?,238,0
+830,2023-02-26 00:44:52,My internet is not working properly.,498,1
+831,2023-05-09 11:19:00,I'm having trouble with my online order.,485,1
+832,2023-11-17 09:07:08,Can I get a copy of my invoice?,209,0
+833,2023-12-14 13:45:52,The app keeps crashing.,149,0
+834,2023-01-10 11:16:36,How do I update my email address?,532,1
+835,2023-07-27 06:56:38,I need to report a lost card.,265,0
+836,2023-07-12 04:18:56,My device isn't charging properly.,140,1
+837,2023-09-26 08:49:36,The service has been down for hours.,293,0
+838,2023-01-21 01:24:58,Can I reschedule my appointment?,206,1
+839,2023-07-12 10:38:00,How do I reset my password?,292,0
+840,2023-07-16 06:39:03,My device isn't charging properly.,341,1
+841,2023-04-22 10:27:52,The service has been down for hours.,195,1
+842,2023-10-20 14:44:42,I need help with my account balance.,75,0
+843,2023-02-12 16:52:19,I need help with my insurance claim.,335,0
+844,2023-04-01 11:03:01,Can you explain my recent charges?,140,1
+845,2023-02-28 23:14:46,Can I speak to a manager?,146,1
+846,2023-05-09 23:40:52,How do I track my order?,48,0
+847,2023-05-18 19:32:26,I need help with my account balance.,67,0
+848,2023-06-21 23:39:45,How do I update my email address?,521,1
+849,2023-09-14 09:31:41,Can I reschedule my appointment?,579,0
+850,2023-03-18 09:05:23,Can I speak to a manager?,95,1
+851,2023-03-28 18:18:58,I need help with my insurance claim.,483,1
+852,2023-10-23 02:47:55,I need to report a lost card.,484,1
+853,2023-03-25 16:10:11,How do I connect to Wi-Fi?,499,0
+854,2023-09-23 17:07:34,How do I connect to Wi-Fi?,102,1
+855,2023-05-14 12:05:08,The service has been down for hours.,159,1
+856,2023-05-07 03:52:56,I'm having trouble with my online order.,444,1
+857,2023-04-27 14:01:25,My internet is not working properly.,437,1
+858,2023-10-16 05:47:57,I need assistance with a warranty claim.,159,0
+859,2023-12-05 10:22:42,How do I track my order?,92,0
+860,2023-06-13 11:14:37,I need to report a lost card.,56,0
+861,2023-05-11 17:29:03,Can I reschedule my appointment?,153,1
+862,2023-02-27 00:06:25,Can you explain my recent charges?,383,1
+863,2023-10-01 03:34:01,I want to upgrade my plan.,317,1
+864,2023-09-29 20:20:49,My device isn't charging properly.,598,1
+865,2023-05-07 11:19:15,I need assistance with a warranty claim.,238,1
+866,2023-09-28 10:46:01,The product I received is defective.,391,1
+867,2023-08-18 05:27:39,I have a billing issue.,70,1
+868,2023-02-13 12:18:39,I want to upgrade my plan.,290,0
+869,2023-02-26 09:43:30,What's the status of my repair?,424,0
+870,2023-06-04 04:35:43,I'm unable to login to my account.,353,1
+871,2023-10-31 05:28:14,The service has been down for hours.,291,1
+872,2023-05-10 13:51:47,I have a billing issue.,83,1
+873,2023-05-22 15:25:10,How do I update my email address?,380,0
+874,2023-11-03 12:24:13,I want to upgrade my plan.,460,0
+875,2023-05-30 00:53:00,My internet is not working properly.,289,0
+876,2023-06-19 04:46:09,The product I received is defective.,464,1
+877,2023-07-16 13:40:50,I'm unable to login to my account.,342,0
+878,2023-02-09 22:56:32,How do I track my order?,277,1
+879,2023-05-01 14:53:24,I want to upgrade my plan.,310,1
+880,2023-01-18 01:29:04,I need to update my payment information.,353,0
+881,2023-11-22 01:14:22,What's the status of my repair?,327,1
+882,2023-01-01 17:38:39,Can I reschedule my appointment?,273,1
+883,2023-08-23 11:11:39,I'm unable to login to my account.,210,1
+884,2023-03-21 02:00:22,Can you help me with a refund?,31,1
+885,2023-03-22 02:31:21,My internet is not working properly.,524,0
+886,2023-12-01 13:47:59,I need to report a lost card.,455,1
+887,2023-12-06 12:27:26,My device isn't charging properly.,63,1
+888,2023-09-08 05:48:31,The service has been down for hours.,273,1
+889,2023-04-13 12:38:57,I need technical support.,194,1
+890,2023-07-30 16:13:05,Can I reschedule my appointment?,222,0
+891,2023-02-21 04:20:37,I have a billing issue.,533,0
+892,2023-07-31 04:27:10,My internet is not working properly.,325,0
+893,2023-05-10 16:27:31,How do I change my shipping address?,148,0
+894,2023-08-16 01:49:21,I need assistance with a warranty claim.,550,1
+895,2023-12-12 01:44:24,My internet is not working properly.,439,0
+896,2023-12-18 14:03:22,My package hasn't arrived yet.,596,1
+897,2023-10-16 13:04:37,I have a billing issue.,541,1
+898,2023-05-27 01:22:11,I need help with my account balance.,578,0
+899,2023-05-04 05:19:23,The service has been down for hours.,554,0
+900,2023-02-01 14:39:26,I need to report a lost card.,494,1
+901,2023-01-24 01:01:32,The product I received is defective.,41,1
+902,2023-05-06 03:13:14,How do I update my email address?,475,1
+903,2023-03-03 12:10:08,How do I apply a discount code?,193,0
+904,2023-01-12 19:33:09,I need to report a lost card.,417,0
+905,2023-03-15 04:00:58,How do I change my shipping address?,528,1
+906,2023-11-23 17:19:16,I need assistance with a warranty claim.,552,0
+907,2023-03-04 03:21:22,I'm unable to login to my account.,310,1
+908,2023-09-20 19:28:25,How do I change my shipping address?,304,1
+909,2023-05-08 01:47:05,What's the status of my repair?,198,0
+910,2023-05-25 18:48:42,My device isn't charging properly.,550,1
+911,2023-09-20 22:05:55,Can you help me with a refund?,292,1
+912,2023-02-08 16:50:35,I need to report a lost card.,73,0
+913,2023-05-18 22:40:08,What's the status of my repair?,436,1
+914,2023-05-04 08:53:38,Can you help me with a refund?,301,0
+915,2023-01-19 13:49:13,I need help with my account balance.,156,0
+916,2023-07-18 13:40:26,I need help with my insurance claim.,499,1
+917,2023-08-05 01:37:25,How do I set up auto-pay?,170,0
+918,2023-11-02 21:49:45,What's the status of my repair?,99,1
+919,2023-08-05 22:26:00,How do I reset my password?,488,1
+920,2023-12-20 05:23:12,Can I get a copy of my invoice?,360,1
+921,2023-07-24 01:19:56,The app keeps crashing.,331,0
+922,2023-07-05 05:55:36,My package hasn't arrived yet.,75,0
+923,2023-08-27 16:34:22,The product I received is defective.,167,0
+924,2023-10-28 19:39:20,My package hasn't arrived yet.,222,1
+925,2023-10-12 10:03:03,My package hasn't arrived yet.,171,0
+926,2023-09-28 07:16:38,The app keeps crashing.,597,1
+927,2023-09-05 15:44:57,How do I set up auto-pay?,300,0
+928,2023-01-22 22:31:48,How do I update my email address?,154,0
+929,2023-09-05 05:51:32,I need to update my payment information.,529,1
+930,2023-10-24 05:56:35,Can I speak to a manager?,114,1
+931,2023-08-24 11:35:20,How do I track my order?,533,0
+932,2023-01-08 14:14:18,I have a billing issue.,455,1
+933,2023-03-09 22:31:18,Can I get a copy of my invoice?,321,0
+934,2023-11-16 22:18:19,I need technical support.,563,0
+935,2023-09-12 21:37:54,My device isn't charging properly.,263,0
+936,2023-06-02 08:35:36,The product I received is defective.,187,1
+937,2023-01-14 15:24:08,I want to cancel my subscription.,148,0
+938,2023-04-03 11:49:44,How do I change my shipping address?,540,0
+939,2023-03-28 16:40:40,Can I get a copy of my invoice?,477,1
+940,2023-03-02 07:47:02,What's the status of my repair?,365,0
+941,2023-05-17 00:03:07,Can you help me with a refund?,152,0
+942,2023-04-09 22:03:10,I need to update my payment information.,64,1
+943,2023-03-01 20:59:41,The product I received is defective.,108,0
+944,2023-09-03 17:26:33,How do I apply a discount code?,441,0
+945,2023-07-13 13:10:35,How do I apply a discount code?,204,1
+946,2023-12-09 19:25:13,My internet is not working properly.,145,0
+947,2023-01-23 06:32:09,I need help with my insurance claim.,257,0
+948,2023-09-09 15:00:58,My internet is not working properly.,221,1
+949,2023-07-02 06:12:46,Can I get a copy of my invoice?,318,0
+950,2023-01-21 18:39:15,My package hasn't arrived yet.,273,0
+951,2023-05-13 17:32:44,Can you help me with a refund?,98,1
+952,2023-11-15 01:40:31,I need to update my payment information.,228,0
+953,2023-12-24 21:03:10,Can you explain my recent charges?,349,1
+954,2023-11-21 07:32:34,I need assistance with a warranty claim.,209,1
+955,2023-02-02 23:34:24,The app keeps crashing.,292,1
+956,2023-03-13 07:03:47,What's the status of my repair?,219,0
+957,2023-09-01 04:01:29,My package hasn't arrived yet.,270,1
+958,2023-10-06 11:54:02,My device isn't charging properly.,525,0
+959,2023-02-14 13:48:23,I need to report a lost card.,560,0
+960,2023-05-12 14:15:11,My internet is not working properly.,244,1
+961,2023-12-05 13:09:44,The service has been down for hours.,443,0
+962,2023-09-30 21:43:47,The product I received is defective.,544,1
+963,2023-04-21 17:53:21,Can I speak to a manager?,99,0
+964,2023-10-04 19:13:09,Can you explain my recent charges?,514,1
+965,2023-01-29 13:08:46,The service has been down for hours.,51,1
+966,2023-04-01 01:36:57,How do I reset my password?,536,0
+967,2023-11-09 19:22:18,I need to update my payment information.,503,1
+968,2023-09-21 20:19:31,I need to update my payment information.,173,0
+969,2023-08-21 01:45:52,I need to report a lost card.,351,0
+970,2023-10-10 01:55:18,Can I get a copy of my invoice?,524,1
+971,2023-02-13 20:09:42,The service has been down for hours.,548,1
+972,2023-11-01 04:47:21,How do I track my order?,130,1
+973,2023-08-11 11:46:34,I want to cancel my subscription.,76,0
+974,2023-08-21 12:28:22,I want to upgrade my plan.,572,1
+975,2023-05-11 09:37:20,How do I apply a discount code?,156,0
+976,2023-08-22 13:19:31,I'm unable to login to my account.,408,0
+977,2023-04-23 23:23:40,I want to upgrade my plan.,485,1
+978,2023-06-04 22:29:27,I need help with my account balance.,539,1
+979,2023-04-26 08:50:48,I'm having trouble with my online order.,256,0
+980,2023-04-13 06:21:30,Can you explain my recent charges?,470,1
+981,2023-01-05 10:14:58,What's the status of my repair?,174,0
+982,2023-12-27 23:02:32,What's the status of my repair?,274,1
+983,2023-01-15 11:19:22,I need assistance with a warranty claim.,280,0
+984,2023-06-17 11:14:02,I want to upgrade my plan.,238,1
+985,2023-07-06 19:38:21,How do I apply a discount code?,540,1
+986,2023-12-17 13:50:46,The app keeps crashing.,426,1
+987,2023-02-19 04:31:05,My internet is not working properly.,410,0
+988,2023-06-26 05:24:41,I need technical support.,141,0
+989,2023-02-14 23:59:35,I need to update my payment information.,262,1
+990,2023-05-21 07:31:36,My device isn't charging properly.,133,1
+991,2023-01-07 09:32:24,How do I set up auto-pay?,192,1
+992,2023-03-25 23:54:45,I need help with my insurance claim.,327,1
+993,2023-05-28 21:04:40,My package hasn't arrived yet.,156,0
+994,2023-09-26 09:59:58,The app keeps crashing.,332,1
+995,2023-07-15 05:30:45,I want to upgrade my plan.,323,1
+996,2023-02-25 14:18:28,How do I change my shipping address?,207,1
+997,2023-08-26 08:26:11,How do I set up auto-pay?,78,1
+998,2023-07-07 22:12:38,My internet is not working properly.,88,0
+999,2023-03-01 22:06:06,Can you help me with a refund?,590,0
+1000,2023-01-08 23:57:04,I'm unable to login to my account.,453,0
